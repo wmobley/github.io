@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wesley Highfield | William Mobley Ph.D.</title>
+    <link>https://wmobley.github.io/authors/wesley-highfield/</link>
+      <atom:link href="https://wmobley.github.io/authors/wesley-highfield/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wesley Highfield</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wmobley.github.io/img/assets/image/wmobley.jpg</url>
+      <title>Wesley Highfield</title>
+      <link>https://wmobley.github.io/authors/wesley-highfield/</link>
+    </image>
+    
+    <item>
+      <title>Estimating Flood Extent during Hurricane Harvey using Maximum Entropy to build a Hazard Distribution Model</title>
+      <link>https://wmobley.github.io/publication/mobley-2019-estimating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wmobley.github.io/publication/mobley-2019-estimating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Machine Learning and Twitter Data to Identify High Hazard Areas during Hurricane Harvey</title>
+      <link>https://wmobley.github.io/publication/sebastian-2019-leveraging/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wmobley.github.io/publication/sebastian-2019-leveraging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

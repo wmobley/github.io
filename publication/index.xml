@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | William Mobley Ph.D.</title>
+    <link>https://wmobley.github.io/publication/</link>
+      <atom:link href="https://wmobley.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wmobley.github.io/img/assets/image/wmobley.jpg</url>
+      <title>Publications</title>
+      <link>https://wmobley.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Effects of changing development patterns and ignition locations within Central Texas</title>
+      <link>https://wmobley.github.io/publication/mobley-2019-effects/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wmobley.github.io/publication/mobley-2019-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Flood Extent during Hurricane Harvey using Maximum Entropy to build a Hazard Distribution Model</title>
+      <link>https://wmobley.github.io/publication/mobley-2019-estimating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wmobley.github.io/publication/mobley-2019-estimating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of flood risk reduction strategies through combinations of interventions</title>
+      <link>https://wmobley.github.io/publication/van-2019-evaluation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wmobley.github.io/publication/van-2019-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Machine Learning and Twitter Data to Identify High Hazard Areas during Hurricane Harvey</title>
+      <link>https://wmobley.github.io/publication/sebastian-2019-leveraging/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wmobley.github.io/publication/sebastian-2019-leveraging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarization of Climate Change Beliefs: The Role of the Millennial Generation Identity</title>
+      <link>https://wmobley.github.io/publication/ross-2019-polarization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wmobley.github.io/publication/ross-2019-polarization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing corporate stakeholders to the table in collaborative ecosystem.</title>
+      <link>https://wmobley.github.io/publication/mobley-2016-bringing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://wmobley.github.io/publication/mobley-2016-bringing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,85 @@
+
+@misc{van2017flood,
+  title={Flood Risk Reduction System Optimization Application to the Galveston Bay Area},
+  author={van Berchum, E.C., Mobley, W.},
+  journal={Technical Paper},
+  year={2017}
+}
+
+@incollection{mobley2016bringing,
+  title={Bringing corporate stakeholders to the table in collaborative ecosystem.},
+  author={Mobley, W, Cash, S.B. and Brody, S.D},
+  booktitle={Pragmatic Sustainability},
+  year={2016},
+  publisher={Routledge Press}
+}
+
+@article{van2019evaluation,
+  title={Evaluation of flood risk reduction strategies through combinations of interventions},
+  author={van Berchum, Erik C and Mobley, William and Jonkman, Sebastiaan N and Timmermans, Jos S and Kwakkel, Jan H and Brody, Samuel D},
+  journal={Journal of Flood Risk Management},
+  volume={12},
+  number={S2},
+  pages={e12506},
+  year={2019},
+  publisher={Blackwell Publishing Ltd Oxford, UK}
+}
+
+@article{mobley2016role,
+  title={The role of corporate stakeholders in ecosystem management initiatives},
+  author={Mobley, William and Cash, Sean B and Brody, Samuel D},
+  journal={Pragmatic Sustainability: Dispositions for Critical Adaptation},
+  year={2016},
+  publisher={Routledge}
+}
+
+@article{mobley2019effects,
+  title={Effects of changing development patterns and ignition locations within Central Texas},
+  author={Mobley, William},
+  journal={PloS one},
+  volume={14},
+  number={2},
+  year={2019},
+  publisher={Public Library of Science}
+}
+
+@article{ross2019polarization,
+  title={Polarization of Climate Change Beliefs: The Role of the Millennial Generation Identity},
+  author={Ross, Ashley D and Rouse, Stella M and Mobley, William},
+  journal={Social Science Quarterly},
+  volume={100},
+  number={7},
+  pages={2625--2640},
+  year={2019}
+}
+
+@phdthesis{mobley2017does,
+  title={How Does Wildfire Risk Differ Across a Landscape Given Heterogeneous Development Patterns?},
+  author={Mobley, William},
+  year={2017}
+}
+
+@article{mobley2019estimating,
+  title={Estimating Flood Extent during Hurricane Harvey using Maximum Entropy to build a Hazard Distribution Model},
+  author={Mobley, William and Sebastian, Antonia and Highfield, Wesley and Brody, Samuel D},
+  journal={Journal of Flood Risk Management},
+  volume={12},
+  number={s1},
+  pages={e12549},
+  year={2019},
+  publisher={Blackwell Publishing Ltd}
+}
+
+@inproceedings{mobley2019random,
+  title={Random Forrest Classification for Flood Hazard Mapping at Large Spatial Scales},
+  author={Mobley, William and Sebastian, Antonia and Blessing, Russell and HighField, Wesley and Juan, Andrew},
+  booktitle={AGU Fall Meeting 2019},
+  year={2019},
+  organization={AGU}
+}
+
+@article{sebastian2019leveraging,
+  title={Leveraging Machine Learning and Twitter Data to Identify High Hazard Areas during Hurricane Harvey},
+  author={Sebastian, Antonia and HighField, Wesley and Brody, Samuel and Mobley, William},
+  year={2019}
+}

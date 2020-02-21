@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jos S Timmermans | William Mobley Ph.D.</title>
+    <link>https://wmobley.github.io/authors/jos-s-timmermans/</link>
+      <atom:link href="https://wmobley.github.io/authors/jos-s-timmermans/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jos S Timmermans</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wmobley.github.io/img/assets/image/wmobley.jpg</url>
+      <title>Jos S Timmermans</title>
+      <link>https://wmobley.github.io/authors/jos-s-timmermans/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of flood risk reduction strategies through combinations of interventions</title>
+      <link>https://wmobley.github.io/publication/van-2019-evaluation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wmobley.github.io/publication/van-2019-evaluation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
